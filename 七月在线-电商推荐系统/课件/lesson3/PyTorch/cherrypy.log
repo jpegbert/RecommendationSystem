@@ -1,0 +1,21 @@
+[20/Feb/2020:14:23:34] ENGINE Bus STARTING
+[20/Feb/2020:14:23:34] ENGINE Started monitor thread 'Autoreloader'.
+[20/Feb/2020:14:23:34] ENGINE Serving on http://0.0.0.0:5000
+[20/Feb/2020:14:23:34] ENGINE Bus STARTED
+[20/Feb/2020:16:07:00] ENGINE Bus STARTING
+[20/Feb/2020:16:07:00] ENGINE Started monitor thread 'Autoreloader'.
+[20/Feb/2020:16:07:00] ENGINE Serving on http://0.0.0.0:5000
+[20/Feb/2020:16:07:00] ENGINE Bus STARTED
+[20/Feb/2020:17:49:59] ENGINE Restarting because D:\ProgramData\Anaconda3\lib\site-packages\numpy\core\overrides.py changed.
+[20/Feb/2020:17:50:01] ENGINE Stopped thread 'Autoreloader'.
+[20/Feb/2020:17:50:01] ENGINE Bus STOPPING
+[20/Feb/2020:17:50:03] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 5000)) shut down
+[20/Feb/2020:17:50:03] ENGINE Bus STOPPED
+[20/Feb/2020:17:50:03] ENGINE Bus EXITING
+[20/Feb/2020:17:50:03] ENGINE Bus EXITED
+[20/Feb/2020:17:50:03] ENGINE Waiting for child threads to terminate...
+[20/Feb/2020:17:50:04] ENGINE Re-spawning D:\ProgramData\Anaconda3\python.exe api.py
+[20/Feb/2020:17:50:46] ENGINE Bus STARTING
+[20/Feb/2020:17:50:46] ENGINE Started monitor thread 'Autoreloader'.
+[20/Feb/2020:17:50:46] ENGINE Serving on http://0.0.0.0:5000
+[20/Feb/2020:17:50:46] ENGINE Bus STARTED
